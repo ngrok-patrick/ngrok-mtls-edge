@@ -31,6 +31,7 @@ if [ ! -f "ca-cert.pem" ]; then
     ########### Generating Certificates !!
 
     # use keygen.sh to generate Keys (Only works on MacOs)
+    # Based on this: https://github.com/ngrok-patrick/Jenky-CA-Script
 
     ########### End Generating Certificates !!
 
